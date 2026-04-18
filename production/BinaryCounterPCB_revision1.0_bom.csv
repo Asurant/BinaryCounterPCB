@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4, D5, D6, D7, D8",LED_D5.0mm,8,LED,
+J1,USB_A_Molex_67643_Horizontal,1,USB_A,
+"R1, R2",R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,2,1k,
+R3,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,470,
+"SW1, SW2",SW_PUSH_6mm,2,SW_Push,
+U1,DIP-16_W7.62mm,1,4040,
